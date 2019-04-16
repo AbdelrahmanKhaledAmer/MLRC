@@ -17,7 +17,7 @@ void setup() {
   frameRate(240);
   size(800, 800);
   for (int i=0; i<n; i++) {
-    points[i] = new myPoint(random(200, 500),random(200, 700));
+    points[i] = new myPoint(random(200, 700),random(200, 500));
   }
   line = new myLine(new myPoint(50,0),new myPoint(0,900));
   //line = new myLine();
