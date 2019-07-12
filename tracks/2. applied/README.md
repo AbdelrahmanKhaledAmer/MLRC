@@ -5,11 +5,13 @@
 <table>
   <tr>
     <th>Week</th>
+    <th>Prerequisits</th>
     <th>Materials</th>
     <th>Tasks</th>
   </tr>
   <tr>
     <td>1</td>
+    <td>None</td>
     <td><ul>
         <li>https://prezi.com/dnpxhg5kg6wz/?utm_campaign=share&utm_medium=copy</li>
         <li>Chapter1 :: Hands on Machine Learning with Scikit-learn and Tensorflow</li>
@@ -20,12 +22,17 @@
   </tr>
   <tr>
     <td>2</td>
+    <td>https://www.coursera.org/learn/neural-networks-deep-learning</td>
+
     <td>TBA</td>
     <td>-</td>
   </tr>
   <tr>
     <td>3</td>
+  
     <td>TBA</td>
+    <td>TBA</td>
+
     <td>TBA</td>
   </tr>
   
