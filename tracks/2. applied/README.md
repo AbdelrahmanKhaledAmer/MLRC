@@ -22,17 +22,14 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>https://www.coursera.org/learn/neural-networks-deep-learning</td>
-
+    <td> Weeks 2 and 3 videos from this coursehttps://www.coursera.org/learn/neural-networks-deep-learning</td>
     <td>TBA</td>
     <td>-</td>
   </tr>
   <tr>
     <td>3</td>
-  
     <td>TBA</td>
     <td>TBA</td>
-
     <td>TBA</td>
   </tr>
   
