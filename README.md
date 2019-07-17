@@ -33,8 +33,6 @@ Code made for the Machine Learning Community's tracks.
   <tr>
     <td>3</td>
     <td>TBA</td>
-    <td>TBA</td>
-    <td>TBA</td>
   </tr>
   
 </table>
