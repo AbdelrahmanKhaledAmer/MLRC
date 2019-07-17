@@ -26,7 +26,7 @@ Code made for the Machine Learning Community's tracks.
         <li>Chapter 3 Section Performance Measures :: Hands on Machine Learning with Scikit-learn and Tensorflow</li>
         <li>Weeks 1, 2 and 3 videos from this course https://www.coursera.org/learn/neural-networks-deep-learning</li>
         <li>SL1 and SL2 videos from this course https://www.udacity.com/course/machine-learning--ud262</li>
-        <li>Try reproducing the code from this kernel https://www.kaggle.com/moghazy/intro-to-dnns-with-data-augmentation-python</li>
+        <li>Try to reproduce the code from this kernel https://www.kaggle.com/moghazy/intro-to-dnns-with-data-augmentation-python</li>
         </ul>  
    </td>
   </tr>
